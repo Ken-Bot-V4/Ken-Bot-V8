@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-  "email":"merveillewinsley@gmail.com",
-    "password": "merveille",
+  "email":"skyekevin23@gmail.com",
+    "password": "332006p",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -24,7 +24,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Jennifer Bot",
+  "nickNameBot": "Kenneth-Bot-V3",
   "prefix": "+",
   "database": {
     "type": "sqlite",
